@@ -122,8 +122,8 @@ def show():
     
     phases = [
         ("Phase 1", "Foundation", "Weeks 1-4", "✅ Completed"),
-        ("Phase 2", "Core Development", "Weeks 5-12", "🔄 In Progress"),
-        ("Phase 3", "UI/UX Development", "Weeks 13-18", "⏳ Planned"),
+        ("Phase 2", "Core Development", "Weeks 5-12", "✅ Completed"),
+        ("Phase 3", "UI/UX Development", "Weeks 13-18", "✅ Completed"),
         ("Phase 4", "Integration & Deployment", "Weeks 19-24", "⏳ Planned")
     ]
     
